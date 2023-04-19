@@ -1,4 +1,4 @@
-This repository contains a collection of **Tayyaba Abro's data analysis and visualization projects**. This include work done in Excel, SQL, Tableau, and other tools.
+This repository contains a collection of **Tayyaba Abro's Data Analysis and Visualization Projects**. This include work done in Excel, SQL, Tableau, and other tools.
 
 **Projects**
 
