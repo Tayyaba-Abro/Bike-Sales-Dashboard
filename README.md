@@ -1,4 +1,4 @@
-# Excel Guided Project: Bike Sales Dashboard
+# Excel Project: Bike Sales Dashboard
   
 This Excel project visualizes customer demographics and sales data. This dashboard features three charts displaying the average income per purchase, customer age bracket, and customer commute. In addition, the project includes three sliders showing the distribution of customers by marital status, region, and occupation. 
 
